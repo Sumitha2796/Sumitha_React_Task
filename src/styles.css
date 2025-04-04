@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+button {
+  background-color: rgb(63, 204, 192);
+  border-color: black;
+}
+input {
+  background-color: azure;
+}
